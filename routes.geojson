@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "routes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Nom de la rue": "Cours Journu Auber", "Quartier": "Bordeaux Maritime", "Hiérarchisation": "Voie urbaine de desserte ≤ 70 km/h" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.575225677023803, 44.862938094178567 ], [ -0.570682389169768, 44.860271846312571 ], [ -0.569142218589523, 44.859339935737566 ], [ -0.567347502704145, 44.85803707989421 ] ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Nom de la rue": "Rue Bob", "Quartier": "Centre-Ville", "Hiérarchisation": "Voie piétonne" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.567155542508627, 44.862416943227089 ], [ -0.563199080208637, 44.860992280402222 ] ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Nom de la rue": "Rue Maurice", "Quartier": "Bordeaux Maritime", "Hiérarchisation": "Voie urbaine de desserte ≤ 70 km/h" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.564857119064597, 44.859713065196885 ], [ -0.561731018801595, 44.856730275961958 ] ] } }
+]
+}
