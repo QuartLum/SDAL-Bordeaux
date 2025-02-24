@@ -265,7 +265,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Trottoir",
         "Projet": "Projet neuf",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -276,7 +276,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Trottoir",
         "Projet": "Nouvel aménagement urbain",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -287,7 +287,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Trottoir",
         "Projet": "Nouvel aménagement lumière seule",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -298,7 +298,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Trottoir",
         "Projet": "Rénovation point par point",
         "Typologie": "luminaire type 1",
@@ -309,7 +309,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Cheminement piéton",
         "Projet": "Projet neuf",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -320,7 +320,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Cheminement piéton",
         "Projet": "Nouvel aménagement urbain",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -331,7 +331,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Cheminement piéton",
         "Projet": "Nouvel aménagement lumière seule",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -342,7 +342,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Cheminement piéton",
         "Projet": "Rénovation point par point",
         "Typologie": "luminaire type 1",
@@ -353,7 +353,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Parc",
         "Projet": "Projet neuf",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -364,7 +364,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Parc",
         "Projet": "Nouvel aménagement urbain",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -375,7 +375,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Parc",
         "Projet": "Nouvel aménagement lumière seule",
         "Typologie": "Mât 7 m + luminaire type 1",
@@ -386,7 +386,7 @@
     },
     {
         "Quartier": "Bordeaux Maritime",
-        "Hiérarchisation": "Voir piétonne",
+        "Hiérarchisation": "Voie piétonne",
         "Sous-catégorie": "Parc",
         "Projet": "Rénovation point par point",
         "Typologie": "luminaire type 1",
@@ -790,5 +790,93 @@
         "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
         "Uniformité": "0.4",
         "Température de couleur (K)": "2700"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Route principale interurbaine ≤ 90 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Projet neuf",
+        "Typologie": "Mât 7 m + luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "0.4",
+        "Température de couleur (K)": "3000"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Route principale interurbaine ≤ 90 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Nouvel aménagement urbain",
+        "Typologie": "Mât 7 m + luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "0.4",
+        "Température de couleur (K)": "3000"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Route principale interurbaine ≤ 90 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Nouvel aménagement lumière seule",
+        "Typologie": "Mât 7 m + luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "0.4",
+        "Température de couleur (K)": "3000"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Route principale interurbaine ≤ 90 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Rénovation point par point",
+        "Typologie": "luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "selon implantation",
+        "Température de couleur (K)": "3000"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Pénétrante urbaine importante ≤ 70 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Projet neuf",
+        "Typologie": "Mât 7 m + luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "0.4",
+        "Température de couleur (K)": "3000"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Pénétrante urbaine importante ≤ 70 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Nouvel aménagement urbain",
+        "Typologie": "Mât 7 m + luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "0.4",
+        "Température de couleur (K)": "3000"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Pénétrante urbaine importante ≤ 70 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Nouvel aménagement lumière seule",
+        "Typologie": "Mât 7 m + luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "0.4",
+        "Température de couleur (K)": "3000"
+    },
+    {
+        "Quartier": "Centre-Ville",
+        "Hiérarchisation": "Pénétrante urbaine importante ≤ 70 km/h",
+        "Sous-catégorie": "Pas de sous-catégorie",
+        "Projet": "Rénovation point par point",
+        "Typologie": "luminaire type 1",
+        "Classe": "M5/C5",
+        "Éclairement moyen (lux)": "7,5 lux < E < 10 lux",
+        "Uniformité": "selon implantation",
+        "Température de couleur (K)": "3000"
     }
 ]
